@@ -8,11 +8,14 @@
  RESUME </a>
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=shibinashraf&label=Profile%20views&color=0e75b6&style=flat" alt="shibinashraf" /> </p>
 <h3 align="left">Certifications/Achievements 🥉</h3>
-• Successfully completed Python Full Stack Development course from
- Soften Technologies.
-• Completed Online course on Network Security and Management. 
-• Certification of completion on HTML training. 
+• Successfully completed Python Full Stack Development course from Soften Technologies.
+
+• Completed Online course on Network Security and Management.
+
+• Certification of completion on HTML training.
+
 • Certification in Online Quiz Contest on Programming Skills in C,C++ and Java. 
+
 • Certification on Learn How To Build Ecommerce Website From Scratch.
 
 <h3 align="left">Languages and Tools:</h3>
